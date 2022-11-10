@@ -30,15 +30,17 @@
 8. [ ] 삼각대
 9. [ ] 면세점 구매 품목 정하기
 ## 여행 계획
-- `12/4(일)`
+- `12/4(일)` ☞ [시간표](https://github.com/hae92/20221204/blob/main/timetable/1204.md)
    - [일루미네이션](https://github.com/hae92/20221204/blob/main/destination/%EC%9D%BC%EB%A3%A8%EB%AF%B8%EB%84%A4%EC%9D%B4%EC%85%98.md)
    - [오르골당](https://github.com/hae92/20221204/blob/main/destination/%EC%98%A4%EB%A5%B4%EA%B3%A8%EB%8B%B9.md)
-- `12/5(월)`
+- `12/5(월)` ☞ [시간표](https://github.com/hae92/20221204/blob/main/timetable/1205.md)
    - [오타루](https://github.com/hae92/20221204/blob/main/destination/%EC%98%A4%ED%83%80%EB%A3%A8.md)
-- `12/6(화)`
+- `12/6(화)` ☞ [시간표](https://github.com/hae92/20221204/blob/main/timetable/1206.md)
    - [버스 투어](https://github.com/hae92/20221204/blob/main/destination/%EB%B2%84%EC%8A%A4%20%ED%88%AC%EC%96%B4.md)
-- `12/7(수)`
+- `12/7(수)` ☞ [시간표](https://github.com/hae92/20221204/blob/main/timetable/1207.md)
    - [온천](https://github.com/hae92/20221204/blob/main/destination/%EC%98%A8%EC%B2%9C.md)
+- `12/8(목)` ☞ [시간표](https://github.com/hae92/20221204/blob/main/timetable/1208.md)
+   - Todo
 ## 기록
 - [2022.12.04](https://github.com/hae92/20221204/blob/main/history/2022.12.04.md)
 - [2022.12.05](https://github.com/hae92/20221204/blob/main/history/2022.12.05.md)
