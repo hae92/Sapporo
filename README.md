@@ -2,14 +2,15 @@
 
 - 여행 목적
    1. [ ] Todo
-   1. [ ] Todo
-   1. [ ] Todo
+   2. [ ] Todo
+   3. [ ] Todo
 - 준비물
-   - Todo
+   1. [ ] 여행 계획 세우기
+   2. [ ] 의상 정하기
 - 여행 계획
-   - Todo
-   - Todo
-   - Todo
+   - 목적지 1
+   - 목적지 2
+   - 목적지 3
 - 기록
    - [2022.12.04](https://github.com/hae92/20221204/blob/main/history/2022.12.04.md)
    - [2022.12.05](https://github.com/hae92/20221204/blob/main/history/2022.12.05.md)
