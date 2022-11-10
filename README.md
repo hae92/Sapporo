@@ -1,4 +1,4 @@
-![img](https://github.com/hae92/20221204/blob/main/images/%EC%82%BF%ED%8F%AC%EB%A1%9C.jpg)
+![삿포로 일루미네이션](https://user-images.githubusercontent.com/90551332/201092260-ac7741e8-167b-471d-85d4-41e9030718a1.jpg)
 # 삿포로 여행 일지
 ## 여행 일정
 - 날짜 : 2022.12.04(일) ~ 2022.12.08(목)
@@ -24,11 +24,13 @@
 2. [ ] 호텔 예약
 3. [ ] 버스 투어 예약
 4. [ ] 의상 정하기
-5. [ ] 비상약 준비
-6. [ ] 예산 정하기
-7. [x] 엔화 준비
-8. [ ] 삼각대
-9. [ ] 면세점 구매 품목 정하기
+5. [ ] 방한 부츠 구매
+6. [ ] 비상약 준비
+7. [ ] 예산 정하기
+8. [x] 엔화 준비
+9. [ ] 삼각대
+10. [ ] 핸드폰 배터리 교체
+11. [ ] 면세점 구매 품목 정하기
 ## 여행 계획
 - `12/4(일)` ☞ [시간표](https://github.com/hae92/20221204/blob/main/timetable/1204.md)
    - [일루미네이션](https://github.com/hae92/20221204/blob/main/destination/%EC%9D%BC%EB%A3%A8%EB%AF%B8%EB%84%A4%EC%9D%B4%EC%85%98.md)
