@@ -23,8 +23,7 @@
 - [2022.12.07](https://github.com/hae92/20221204/blob/main/history/2022.12.07.md)
 - [2022.12.08](https://github.com/hae92/20221204/blob/main/history/2022.12.08.md)
 ## 참여자
-- 김성해
-- 신민희
+- 신민희 ♥ 김성해
 
 
 
