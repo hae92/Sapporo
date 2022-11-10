@@ -30,11 +30,11 @@
 8. [ ] 삼각대
 9. [ ] 면세점 구매 품목 정하기
 ## 여행 계획
-- 일루미네이션
-- 오르골당
-- 오타루
-- 버스 투어
-- 온천
+- [일루미네이션](https://github.com/hae92/20221204/blob/main/destination/%EB%B2%84%EC%8A%A4%20%ED%88%AC%EC%96%B4.md)
+- [오르골당](https://github.com/hae92/20221204/blob/main/destination/%EB%B2%84%EC%8A%A4%20%ED%88%AC%EC%96%B4.md)
+- [오타루](https://github.com/hae92/20221204/blob/main/destination/%EB%B2%84%EC%8A%A4%20%ED%88%AC%EC%96%B4.md)
+- [버스 투어](https://github.com/hae92/20221204/blob/main/destination/%EB%B2%84%EC%8A%A4%20%ED%88%AC%EC%96%B4.md)
+- [온천](https://github.com/hae92/20221204/blob/main/destination/%EB%B2%84%EC%8A%A4%20%ED%88%AC%EC%96%B4.md)
 ## 기록
 - [2022.12.04](https://github.com/hae92/20221204/blob/main/history/2022.12.04.md)
 - [2022.12.05](https://github.com/hae92/20221204/blob/main/history/2022.12.05.md)
