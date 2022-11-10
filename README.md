@@ -1,4 +1,4 @@
-![img](https://github.com/hae92/20221204/blob/main/images/main.jpg)
+![img](https://github.com/hae92/20221204/blob/main/images/%EC%82%BF%ED%8F%AC%EB%A1%9C.jpg)
 # 삿포로 여행 일지
 ## 여행 일정
 - 2022.12.04.(일) ~ 2022.12.08.(목)
