@@ -40,7 +40,7 @@
 - `12/7(수)` ☞ [시간표](https://github.com/hae92/20221204/blob/main/timetable/1207.md)
    - [온천](https://github.com/hae92/20221204/blob/main/destination/%EC%98%A8%EC%B2%9C.md)
 - `12/8(목)` ☞ [시간표](https://github.com/hae92/20221204/blob/main/timetable/1208.md)
-   - Todo
+   - Todo 👏🏻
 ## 기록
 - [2022.12.04](https://github.com/hae92/20221204/blob/main/history/2022.12.04.md)
 - [2022.12.05](https://github.com/hae92/20221204/blob/main/history/2022.12.05.md)
