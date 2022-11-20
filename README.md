@@ -43,9 +43,9 @@
 - `12/6(화)` ☞ [시간표](https://github.com/hae92/20221204/blob/main/timetable/1206.md)
    - [버스 투어](https://github.com/hae92/20221204/blob/main/destination/%EB%B2%84%EC%8A%A4%20%ED%88%AC%EC%96%B4.md)
 - `12/7(수)` ☞ [시간표](https://github.com/hae92/20221204/blob/main/timetable/1207.md)
-   - [온천? 쇼핑? 박물관? (미정)](https://github.com/hae92/20221204/blob/main/destination/%EC%98%A8%EC%B2%9C.md)
+   - [쇼핑 & 맥주 박물관](https://github.com/hae92/20221204/blob/main/destination/%EC%98%A8%EC%B2%9C.md)
 - `12/8(목)` ☞ [시간표](https://github.com/hae92/20221204/blob/main/timetable/1208.md)
-   - Todo 👏🏻
+   - 귀국 준비
 ## 기록
 - [2022.12.04](https://github.com/hae92/20221204/blob/main/history/2022.12.04.md)
 - [2022.12.05](https://github.com/hae92/20221204/blob/main/history/2022.12.05.md)
